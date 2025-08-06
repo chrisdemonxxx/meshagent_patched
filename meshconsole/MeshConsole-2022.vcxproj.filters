@@ -249,7 +249,7 @@
     <ClCompile Include="..\meshcore\agentcore.c">
       <Filter>Meshcore</Filter>
     </ClCompile>
-    <ClCompile Include="main.c" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="..\microscript\ILibDuktape_fs.c">
       <Filter>Microscript</Filter>
     </ClCompile>

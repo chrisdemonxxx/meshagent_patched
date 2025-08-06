@@ -13,6 +13,8 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 */
+#define WINVER 0x0A00
+#define _WIN32_WINNT 0x0A00
 
 #ifndef __AGENTCORE__
 #define __AGENTCORE__
